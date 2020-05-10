@@ -1,1 +1,3 @@
-Welcome to git
+Welcome to the world of git
+
+Thanks!
